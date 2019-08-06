@@ -1,4 +1,4 @@
-# Weather Icons Light
+# Weather Icons Light Vertically Centered for OpenWeather ONLY
 
 ## Weather Themed Icons and CSS
 
