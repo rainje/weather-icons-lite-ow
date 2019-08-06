@@ -1,16 +1,16 @@
 {
-    "name" : "weather-icons-lite",
-    "version" : "1.1.0",
-    "description" : "A lightweight set of weather icons",
+    "name" : "weather-icons-lite-ow",
+    "version" : "1.0",
+    "description" : "A lightweight set of weather icons centered for OpenWeather",
     "dependencies" : {
     },
     "repository" : {
         "type":"git",
-        "url":"https://github.com/Paul-Reed/weather-icons-lite"
+        "url":"https://github.com/rainje/weather-icons-lite-ow"
     },
     "license": "OFL-1.1 AND MIT",
-    "keywords": [ "weather","icons" ],
+    "keywords": [ "weather", "icons", "open" ],
     "author": {
-        "name": "Paul Reed"
+        "name": "rainje"
     }
 }
